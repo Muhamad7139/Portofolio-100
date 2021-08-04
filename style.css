@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #0099ff80;
+}
+
+#Project {
+  background-color: #0099ff80;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#top-nav {
+  transition: 1s;
+}
